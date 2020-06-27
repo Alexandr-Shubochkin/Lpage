@@ -1,13 +1,16 @@
+
+
 body {
     margin: 0;
     padding: 0;
+    min-width: 1050px;
    
    
    
 }
 
 header {
-    background: #87509c;
+    background-color: #87509c;
     margin: 0;
     padding: 0;
     padding-bottom: 146px;
@@ -18,6 +21,7 @@ header {
 .container {
     width: 1044px;
     margin: 0 auto;
+    
 }
 
 .clearfix:after {
